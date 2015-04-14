@@ -1,9 +1,12 @@
 {
   "name": "angular-wizard",
   "description": "Easy to use Wizard library for AngularJS",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "filename": "angular-wizard.min.js",
-  "main": "./dist/angular-wizard.min.js",
+  "main": [
+    "./dist/angular-wizard.min.js",
+    "./dist/angular-wizard.min.css"
+  ],
   "homepage": "https://github.com/mgonto/angular-wizard",
   "author": "Martin Gontovnikas <martin@gon.to>",
   "repository": {
